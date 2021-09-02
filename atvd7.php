@@ -2,7 +2,7 @@
 
 $jogador = " futebol"
 
-switch($jogador){
+switch ($jogador) {
 
     case "neymar" {
         print ("Gol de ney");
