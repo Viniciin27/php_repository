@@ -1,6 +1,6 @@
 <?php
 
-$jogador = " Pele"
+$jogador = " futebol"
 
 switch($jogador){
 
